@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/img/logo.png" alt="Harvard Angels" width="180">
+<img src="assets/img/angel_mid_flap.png" alt="Harvard Angels" width="180">
 
 ### 🎮 A 2D Side-Scrolling Game Built with Python & Pygame
 
